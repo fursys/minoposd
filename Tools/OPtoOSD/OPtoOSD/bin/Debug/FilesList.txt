@@ -1,0 +1,13 @@
+flighttelemetrystats.h;1;FLIGHTTELEMETRYSTATS_OBJID;;
+gcstelemetrystats.h;2;GCSTELEMETRYSTATS_OBJID;;
+attitudestate.h;2;ATTITUDESTATE_OBJID;;
+flightstatus.h;2;FLIGHTSTATUS_OBJID;;
+manualcontrolcommand.h;1;MANUALCONTROLCOMMAND_OBJID;;
+gpspositionsensor.h;2;GPSPOSITIONSENSOR_OBJID;;
+gpstime.h;3;GPSTIME_OBJID;;
+positionstate.h;2;POSITIONSTATE_OBJID;;
+velocitystate.h;2;VELOCITYSTATE_OBJID;;
+systemalarms.h;2;SYSTEMALARMS_OBJID;;
+barosensor.h;2;BAROSENSOR_OBJID;;
+oplinkstatus.h;2;OPLINKSTATUS_OBJID;;
+flightbatterystate.h;2;FLIGHTBATTERYSTATE_OBJID;;

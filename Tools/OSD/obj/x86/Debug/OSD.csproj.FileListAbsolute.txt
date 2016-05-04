@@ -1,0 +1,1 @@
+C:\skuksenk\_Quadro\minOPOSD\osdconfig\arducam-osd-read-only\Tools\OSD\bin\Debug\OSD_Config.exe.config
